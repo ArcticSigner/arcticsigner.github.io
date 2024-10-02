@@ -33,7 +33,7 @@ h2 {
 
 .flashing { 
     animation-name: blinkingText;
-    animation-duration: 1.2s;
+    animation-duration: 1s;
     animation-iteration-count: infinite;
 }
 
