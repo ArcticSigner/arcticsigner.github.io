@@ -38,5 +38,5 @@ h2 {
 }
 
 @keyframes blinkingText{
-    from {color: light-blue;} to {color: white;} to {color: light-blue}
+    from {color: blue;} to {color: white;} to {color: blue}
 }
