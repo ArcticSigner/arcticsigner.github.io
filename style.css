@@ -33,10 +33,10 @@ h2 {
 
 .flashing { 
     animation-name: blinkingText;
-    animation-duration: 1s;
+    animation-duration: 2s;
     animation-iteration-count: infinite;
 }
 
 @keyframes blinkingText{
-    from {color: blue;} to {color: white;} to {color: blue}
+    from {color: blue;} to {color: white;} 
 }
