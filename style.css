@@ -37,6 +37,7 @@ h2 {
     );
     color: transparent;
     background-clip: text;
+    -webkit-background-clip: text;
     background-size 500% 500%;
     animation: gradient-animation 3s ease infinite;
 }
