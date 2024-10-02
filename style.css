@@ -36,7 +36,7 @@ h2 {
         #03fce3 #ffffff
     );
     color: transparent;
-    background-clip: text
+    background-clip: text;
     background-size 500% 500%;
     animation: gradient-animation 3s ease infinite;
 }
@@ -46,7 +46,7 @@ h2 {
     background-position: 0% 50%;
     }
     50% {
-        background-position: 100% 50%
+        background-position: 100% 50%;
     }
     100% {
         background-position: 0% 50%;
