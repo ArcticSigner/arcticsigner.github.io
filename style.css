@@ -36,4 +36,18 @@ background: linear-gradient(to right, #f32170,
                     #ff6b08, #cf23cf, #eedd44);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
+ background-size: 400% 400%;
+    animation: gradient 6s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
 }
