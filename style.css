@@ -30,26 +30,3 @@ h2 {
   font-weight: <weight>;
   font-style: normal;
 }
-
-.gradient {
-    background: lenear-gradient(
-        #03fce3 #ffffff
-    );
-    color: transparent;
-    background-clip: text;
-    -webkit-background-clip: text;
-    background-size 500% 500%;
-    animation: gradient-animation 3s ease infinite;
-}
-
-@keyframes gradient-animation {
-    0% {
-    background-position: 0% 50%;
-    }
-    50% {
-        background-position: 100% 50%;
-    }
-    100% {
-        background-position: 0% 50%;
-    }
-}
