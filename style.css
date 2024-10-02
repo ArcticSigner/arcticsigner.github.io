@@ -31,12 +31,3 @@ h2 {
   font-style: normal;
 }
 
-.flashing { 
-    animation-name: blinkingText;
-    animation-duration: 2s;
-    animation-iteration-count: infinite;
-}
-
-@keyframes blinkingText{
-    from {color: blue;} to {color: white;} 
-}
