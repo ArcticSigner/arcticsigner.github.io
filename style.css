@@ -33,9 +33,10 @@ h2 {
 
  background: linear-gradient(
         to right,
-      #00ffe5 0%,
-      #ffffff 50%,
-      #00ffe5 100%
+      #00ffe5 20%,
+      #ffffff 30%,
+      #00ffe5 70%
+      #ffffff 80%
     );
     -webkit-background-clip: text;
     background-clip: text;
