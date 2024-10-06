@@ -1,9 +1,11 @@
 h4 {
     font-family: sans-serif;
+    padding:20px;
 }
 
 h3 {
     font-family: sans-serif;
+    padding:20px;
 }
 
 a {
@@ -13,7 +15,6 @@ a {
 body {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1zm4gphRMcH0dHKDQhdmgujKNrxJI9Bdv2uaVeets7g&s");
   background-size: 100vw 100vh;
-  margin: 0px 50px 0px 50px;
 }
 
 h1 {
