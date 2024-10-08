@@ -1,1 +1,2 @@
-console.log('The signer is open-source.')
+let name = 'Arctic';
+console.log(name);
