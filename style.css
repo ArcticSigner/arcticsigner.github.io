@@ -51,3 +51,7 @@ background: linear-gradient(to right, #f32170,
         background-position: 0% 50%;
     }
 }
+
+.brand {
+font-family: "Roboto Condensed", sans-serif;
+}
