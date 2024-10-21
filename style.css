@@ -37,7 +37,7 @@ background: linear-gradient(to right, #00eeff,
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
  background-size: 400% 400%;
-    animation: gradient 7s ease infinite;
+    animation: gradient 15s ease infinite;
 }
 
 @keyframes gradient {
